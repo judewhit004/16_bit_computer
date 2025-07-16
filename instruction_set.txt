@@ -1,0 +1,3 @@
+instructions will be 8 bits
+and will have a 2 bit opcode thus 
+leaving room for 8 registers 000-111 or R0-R7 
